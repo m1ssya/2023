@@ -6,11 +6,20 @@
 | ---- | -------------------------------------- | --------------------- | ------ | -------- | ----- |
 | 1    | [2023](https://github.com/m1ssya/2023) | 2023年3月26日22:25:08 |        | 中文     | 0     |
 
-## The repos I stared (random 10)
-| ID   | REPO                                       | STAREDDATE            | LAUGUAGE | Description |
-| ---- | ------------------------------------------ | --------------------- | -------- | ----------- |
-| 1    | [2022](https://github.com/yihong0618/2022) | 2023年3月26日22:26:48 | 中文     | 年度统计    |
+## The repos I stared
+| ID   | REPO                                                         | STAREDDATE            | LAUGUAGE | Description  |
+| ---- | ------------------------------------------------------------ | --------------------- | -------- | ------------ |
+| 1    | [2022](https://github.com/yihong0618/2022)                   | 2023年3月26日22:26:48 | 中文     | 年度统计     |
+| 2    | [HumanSystemOptimization](https://github.com/awake1t/HumanSystemOptimization) | 2023年3月26日22:29:45 | 中文     | 人体健康指南 |
+| 3    | [Awesome-hacking-tools](https://github.com/awake1t/Awesome-hacking-tools) | 2023年3月26日22:31:05 | 中文     | 安全工具收集 |
 
+## The website I liked
+
+| ID   | REPO                       | STAREDDATE            | Description         |
+| ---- | -------------------------- | --------------------- | ------------------- |
+| 1    | https://b.jimmylv.cn/      | 2023年3月26日22:34:37 | 一键总结B站视频内容 |
+| 2    | https://www.chatmind.tech/ | 2023年3月26日22:34:40 | AI对话生成思维导图  |
+|      |                            |                       |                     |
 
 ## 读书
 
