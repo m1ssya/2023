@@ -4,12 +4,12 @@
 ## The repos I created
 | ID   | REPO                                   | START                 | UPDATE | LAUGUAGE | STARS |
 | ---- | -------------------------------------- | --------------------- | ------ | -------- | ----- |
-| 1    | [2023](https://github.com/m1ssya/2023) | 2023年3月26日22:25:08 |        | 中文     |       |
+| 1    | [2023](https://github.com/m1ssya/2023) | 2023年3月26日22:25:08 |        | 中文     | 0     |
 
 ## The repos I stared (random 10)
-| ID   | REPO | STAREDDATE | LAUGUAGE | LATESTUPDATE |      |
-| ---- | ---- | ---------- | -------- | ------------ | ---- |
-|      |      |            |          |              |      |
+| ID   | REPO                                       | STAREDDATE            | LAUGUAGE | Description |
+| ---- | ------------------------------------------ | --------------------- | -------- | ----------- |
+| 1    | [2022](https://github.com/yihong0618/2022) | 2023年3月26日22:26:48 | 中文     | 年度统计    |
 
 
 ## 读书
