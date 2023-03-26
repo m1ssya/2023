@@ -2,9 +2,9 @@
 关于我的 2023 的一些记录。
 
 ## The repos I created
-| ID   | REPO | START | UPDATE | LAUGUAGE | STARS |
-| ---- | ---- | ----- | ------ | -------- | ----- |
-|      |      |       |        |          |       |
+| ID   | REPO                                   | START                 | UPDATE | LAUGUAGE | STARS |
+| ---- | -------------------------------------- | --------------------- | ------ | -------- | ----- |
+| 1    | [2023](https://github.com/m1ssya/2023) | 2023年3月26日22:25:08 |        | 中文     |       |
 
 ## The repos I stared (random 10)
 | ID   | REPO | STAREDDATE | LAUGUAGE | LATESTUPDATE |      |
